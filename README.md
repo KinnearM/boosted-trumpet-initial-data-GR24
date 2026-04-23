@@ -1,2 +1,8 @@
-# boosted-trumpet-initial-data-GR24
-Official repository for the poster "Boosted Trumpet Initial Data," presented at the 24th International Conference on General Relativity and Gravitation (GR24) and the 16th Edoardo Amaldi Conference on Gravitational Waves.
+Boosted Trumpet Initial Data
+
+
+This poster was presented at Amaldi/GR 2026 and was awarded a Best Poster Prize by the conference organisers.
+
+Official Prize Announcement: [IOP GR24/Amaldi 16 Prizes](https://iop.eventsair.com/gr24-amaldi16/prizes)
+
+Conference Website: [GR24 - Amaldi 16](https://iop.eventsair.com/gr24-amaldi16/)
